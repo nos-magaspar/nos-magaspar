@@ -1,6 +1,6 @@
 ## Hi there 👋
-###Bot told me the next step was to do this.
-####Thanks bot.
+### Bot told me the next step was to do this.
+#### Thanks bot.
 
 <!--
 **nos-magaspar/nos-magaspar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
